@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+
+* {
+  font-family: "Roboto Flex";
+}
+body {
+  background-color: #e9e9e9;
+}
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.whatsapp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 40px;
+  border: 1px solid #fafafa;
+  width: 380px;
+  height: 72px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  background-color: #fafafa;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.whatsapp p {
+  font-size: 16px;
+  color: #822e27;
+  margin-left: 16px;
+}
+
+.number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 40px;
+  border: 1px solid #fafafa;
+  width: 380px;
+  height: 72px;
+  margin-left: 30px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  background-color: #fafafa;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.number p {
+  font-size: 16px;
+  color: #822e27;
+  margin-left: 16px;
+}
+
+.gmail {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 40px;
+  border: 1px solid #fafafa;
+  width: 380px;
+  height: 72px;
+  margin-left: 30px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  background-color: #fafafa;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.gmail p {
+  font-size: 16px;
+  color: #822e27;
+  margin-left: 16px;
+}

@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+
+* {
+  font-family: "Roboto Flex";
+}
+
+body {
+  background-color: #e9e9e9;
+}
+
+.explore {
+  text-align: center;
+}
+
+.explore h1 {
+  color: #822e27;
+  font-size: 32px;
+  font-weight: bold;
+  margin-right: 1040px;
+}
+
+.inline {
+  display: block;
+}
+
+.inline img {
+  width: 1172px;
+  height: 620px;
+}
+
+/* input[type="radio"] {
+  border: 5px solid red;
+} */
